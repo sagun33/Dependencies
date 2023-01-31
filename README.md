@@ -1,1 +1,1 @@
-# TechProCan-Dependicies
+Dependencies für Frame Work Einstellungen
